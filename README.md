@@ -75,8 +75,8 @@ Open your web browser and go to http://localhost:3000. The todo application shou
 
 ## Jenkins Pipeline Screenshot
 
-
+![Web capture_10-1-2024_151611_10 0 2 15](https://github.com/RajeevThapa/todo-app/assets/101322664/dd7c3a1c-10ec-49ce-bba0-0e508c64c446)
 
 ## Project Overview
 
-
+![Draft (1)](https://github.com/RajeevThapa/todo-app/assets/101322664/ac925586-08ae-4650-918c-c962ddfa94ea)
