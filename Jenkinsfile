@@ -28,5 +28,13 @@ pipeline {
                 }
             }
         }
+
+        stage('Clean') {
+            steps {
+                script {
+                    sh "docker rmi ${IMAGE_NAME}:${IMAGE_TAG}"
+                }
+            }
+        }
     }
 }
